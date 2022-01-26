@@ -3,7 +3,7 @@ function setup() {
   }
 
   function draw() {
-    /*
+    
     //fill in background
     fill(240);
     rect(0, 0, windowWidth/2, windowHeight/2);
@@ -33,9 +33,5 @@ function setup() {
     bezier(windowWidth/2, windowHeight/2, windowWidth/2, windowHeight, windowWidth, windowHeight, windowWidth/2, windowHeight/2);
     bezier(windowWidth/2, windowHeight/2, windowWidth, windowHeight/2, windowWidth, windowHeight, windowWidth/2, windowHeight/2);
 
-    */
-
-    background(225, 50, 200);
-    
 
   }
