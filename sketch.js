@@ -1,8 +1,6 @@
 function setup() {
     createCanvas(windowWidth, windowHeigth);
   }
-  
-  //console.log("message");
 
   function draw() {
     /*
