@@ -4,6 +4,8 @@ function setup() {
 
   function draw() {
     
+    background(255);
+
     //fill in background
     fill(240);
     rect(0, 0, windowWidth/2, windowHeight/2);
